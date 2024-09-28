@@ -3,5 +3,5 @@ project_name: Oomlout Decorative Lighting Triple Holder Lighting Pendant Ikea Sl
   Copper
 project_repo: https://github.com/oomlout/oomlout_decorative_lighting_triple_holder_lighting_pendant_ikea_slattbo_copper
 production_format:
-  oolc_1:
+  oolc_1_base_plates:
     file_location: source_files/oolc_1.cdr
