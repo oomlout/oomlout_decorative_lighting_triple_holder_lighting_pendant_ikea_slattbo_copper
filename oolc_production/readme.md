@@ -12,3 +12,13 @@
 * thickness:   
 * material:   
  
+
+### oolc_2_resuce_file
+* link: [/oolc_2_resuce_file](oolc_2_resuce_file)  
+![](oolc_2_resuce_file/working_300.png)  
+![](oolc_2_resuce_file/image_300.jpg)  
+* width:   
+* height:   
+* thickness:   
+* material:   
+ 
