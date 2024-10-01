@@ -22,3 +22,13 @@
 * thickness:   
 * material:   
  
+
+### oolc_3_rescue_hook_adapter
+* link: [/oolc_3_rescue_hook_adapter](oolc_3_rescue_hook_adapter)  
+![](oolc_3_rescue_hook_adapter/working_300.png)  
+![](oolc_3_rescue_hook_adapter/image_300.jpg)  
+* width:   
+* height:   
+* thickness:   
+* material:   
+ 
