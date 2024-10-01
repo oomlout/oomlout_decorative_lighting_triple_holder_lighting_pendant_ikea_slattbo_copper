@@ -7,3 +7,5 @@ production_format:
     file_location: source_files/oolc_1.cdr
   oolc_2_resuce_file:
     file_location: source_files/oolc_2.cdr
+  oolc_3_rescue_hook_adapter:
+    file_location: source_files/oolc_3.cdr
